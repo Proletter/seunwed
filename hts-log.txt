@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Apr 2024 16:50:08 at https://fenwad97.wixsite.com/nugwa-and-seun +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fenwad97.wixsite.com/nugwa-and-seun -O1 "C:\Users\Oluwaseun\Desktop\Birdview\Seunwed" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:51:03	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/ (from https://fenwad97.wixsite.com/nugwa-and-seun)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/sitemap.xml (from https://fenwad97.wixsite.com/nugwa-and-seun)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/feed.xml (from https://fenwad97.wixsite.com/nugwa-and-seun)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/${n.uri} (from https://fenwad97.wixsite.com/nugwa-and-seun)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/decodeURIComponent(e (from https://fenwad97.wixsite.com/nugwa-and-seun)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/robots.txt (from https://fenwad97.wixsite.com/nugwa-and-seun/getting-there)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/sitemap.xml (from https://fenwad97.wixsite.com/nugwa-and-seun/getting-there)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/feed.xml (from https://fenwad97.wixsite.com/nugwa-and-seun/getting-there)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/${n.uri} (from https://fenwad97.wixsite.com/nugwa-and-seun/getting-there)
+16:51:25	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/decodeURIComponent(e (from https://fenwad97.wixsite.com/nugwa-and-seun/getting-there)
+16:51:27	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/event-details/sitemap.xml (from https://fenwad97.wixsite.com/nugwa-and-seun/event-details/nugwa-and-seun-a-celebration-of-yoruba-and-kogi-culture)
+16:51:27	Error: 	"Not Found" (404) at link https://fenwad97.wixsite.com/nugwa-and-seun/event-details/feed.xml (from https://fenwad97.wixsite.com/nugwa-and-seun/event-details/nugwa-and-seun-a-celebration-of-yoruba-and-kogi-culture)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 23 seconds : 48 links scanned, 35 files written (5452089 bytes overall) [1525924 bytes received at 18384 bytes/sec], 5282965 bytes transferred using HTTP compression in 33 files, ratio 23%, 1.2 requests per connection
+(12 errors, 0 warnings, 0 messages)

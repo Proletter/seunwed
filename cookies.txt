@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fenwad97.wixsite.com	TRUE	/nugwa-and-seun/getting-there	FALSE	1999999999	TS01cac204	01d72e6d16089baf22c84626c98a23b2ced233f1f5de0a5ba382f36339bc41fde334ca225b12acc46013c1ccd3e293b0742f7fe39f
+fenwad97.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1712850613|mfNDq-VdIhR6
+fenwad97.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+fenwad97.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=84_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01d72e6d163eb33e601b15216d7f070e134ff3159e52a5243adcc44af0de5b17b50bc369672bd3062e68589388fe557debebae85a0
+
